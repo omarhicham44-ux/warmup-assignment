@@ -1,5 +1,5 @@
 const fs = require("fs")
-
+// small cleanup and helper functions added
 // Helper functions (internal utilities)
 function toSeconds(t){
     let parts = t.trim().toLowerCase().split(" ")
